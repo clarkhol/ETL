@@ -1,0 +1,31 @@
+Provinces,Energy consumption,2013,2015
+,Gigajoules per household,97.5,92.5
+Newfoundland and Labrador,Gigajoules,"18,540,233","18,065,134"
+,Gigajoules per household,85,82.7
+Prince Edward Island,Gigajoules,"5,976,438","6,263,528"
+,Gigajoules per household,101.6,105.7
+Nova Scotia,Gigajoules,"33,245,605","35,386,359"
+,Gigajoules per household,83.7,88.1
+New Brunswick,Gigajoules,"24,013,701","25,044,515"
+,Gigajoules per household,76.5,78.8
+Quebec,Gigajoules,"271,214,951","261,438,871"
+,Gigajoules per household,78,73.4
+Ontario,Gigajoules,"522,205,592","533,097,802"
+,Gigajoules per household,100.2,101
+Manitoba,Gigajoules,"56,756,213","50,760,804"
+,Gigajoules per household,117.7,105.8
+Saskatchewan,Gigajoules,"50,449,383","48,034,372"
+,Gigajoules per household,118.6,112
+Alberta,Gigajoules,"205,306,380","181,736,467"
+,Gigajoules per household,137.1,117.7
+British Columbia,Gigajoules,"172,821,409","151,137,734"
+,Gigajoules per household,92.1,80.3
+Canada,Gigajoules,"1,360,529,905","1,310,965,586"
+,,,
+,,,
+Footnotes:,,,
+1,"Source: Statistics Canada, Environment, Energy and Transportation Statistics Division",,
+,,,
+"How to cite: Statistics Canada. Table 25-10-0060-01 Household energy consumption, Canada and provinces",,,
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2510006001,,,
+DOI: https://doi.org/10.25318/2510006001-eng,,,
