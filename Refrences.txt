@@ -1,0 +1,9 @@
+https://www.eia.gov/state/rankings/#/series/12 - US Total energy production 
+
+https://oee.nrcan.gc.ca/corporate/statistics/neud/dpa/data_e/databases.cfm?attr=0 - Canada 
+
+https://en.wikipedia.org/wiki/Population_of_Canada_by_province_and_territory - Canada population Wikipedia
+
+https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States_by_population#cite_note-5 - US population - Wikipedia
+
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2510006001 - Energy consume by province wise
