@@ -1,0 +1,11 @@
+id,Provinces,Energy_consumption,Consumption_2013,Consumption_2015,Population_2016,Population_2020
+0,Newfoundland and Labrador,Gigajoules,"18,540,233","18,065,134",519716,521365
+1,Prince Edward Island,Gigajoules,"5,976,438","6,263,528",142907,158158
+2,Nova Scotia,Gigajoules,"33,245,605","35,386,359",923598,977457
+3,New Brunswick,Gigajoules,"24,013,701","25,044,515",747101,779993
+4,Quebec,Gigajoules,"271,214,951","261,438,871",8164361,8537674
+5,Ontario,Gigajoules,"522,205,592","533,097,802",13448494,14711827
+6,Manitoba,Gigajoules,"56,756,213","50,760,804",1278365,1377517
+7,Saskatchewan,Gigajoules,"50,449,383","48,034,372",1098352,1181666
+8,Alberta,Gigajoules,"205,306,380","181,736,467",4067175,4413146
+9,British Columbia,Gigajoules,"172,821,409","151,137,734",4648055,5110917
